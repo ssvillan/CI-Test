@@ -26,6 +26,6 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest --maxfail=1 --disable-warnings -v --cov=your_package_name
+        pytest 
 
     
